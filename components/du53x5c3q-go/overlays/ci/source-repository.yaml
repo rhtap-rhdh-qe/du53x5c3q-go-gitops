@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: du53x5c3q-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/du53x5c3q-go
